@@ -1,0 +1,56 @@
+2026-10-25 12:23:31,284 INFO WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+2026-10-25 12:23:31,284 INFO Press CTRL+C to quit
+2026-10-25 12:23:31,287 INFO  * Restarting with stat
+2026-10-25 12:23:32,564 WARNING  * Debugger is active!
+2026-10-25 12:23:32,567 INFO  * Debugger PIN: 887-119-069
+2026-10-25 12:25:56,513 INFO make_chart completed in 0.1442 seconds
+2026-10-25 12:25:56,580 INFO 127.0.0.1 - - [25/Oct/2026 12:25:56] "GET / HTTP/1.1" 200 -
+2026-10-25 12:25:56,726 INFO 127.0.0.1 - - [25/Oct/2026 12:25:56] "GET /static/style.css HTTP/1.1" 200 -
+2026-10-25 12:25:56,739 INFO 127.0.0.1 - - [25/Oct/2026 12:25:56] "GET /static/dashboard_chart.png?v=1792911356 HTTP/1.1" 200 -
+2026-10-25 12:25:57,374 INFO 127.0.0.1 - - [25/Oct/2026 12:25:57] "GET /favicon.ico HTTP/1.1" 404 -
+2026-10-25 12:25:59,783 INFO 127.0.0.1 - - [25/Oct/2026 12:25:59] "GET /participants/add HTTP/1.1" 200 -
+2026-10-25 12:25:59,791 INFO 127.0.0.1 - - [25/Oct/2026 12:25:59] "GET /static/style.css HTTP/1.1" 304 -
+2026-10-25 12:26:02,218 INFO make_chart completed in 0.0962 seconds
+2026-10-25 12:26:02,220 INFO 127.0.0.1 - - [25/Oct/2026 12:26:02] "GET / HTTP/1.1" 200 -
+2026-10-25 12:26:02,229 INFO 127.0.0.1 - - [25/Oct/2026 12:26:02] "GET /static/style.css HTTP/1.1" 304 -
+2026-10-25 12:26:02,229 INFO 127.0.0.1 - - [25/Oct/2026 12:26:02] "GET /static/dashboard_chart.png?v=1792911362 HTTP/1.1" 200 -
+2026-10-25 12:26:08,719 INFO 127.0.0.1 - - [25/Oct/2026 12:26:08] "GET /participants/add HTTP/1.1" 200 -
+2026-10-25 12:26:08,730 INFO 127.0.0.1 - - [25/Oct/2026 12:26:08] "GET /static/style.css HTTP/1.1" 304 -
+2026-10-25 12:26:38,892 INFO Participant added: lukendar
+2026-10-25 12:26:38,894 INFO 127.0.0.1 - - [25/Oct/2026 12:26:38] "POST /participants/add HTTP/1.1" 302 -
+2026-10-25 12:26:38,914 INFO 127.0.0.1 - - [25/Oct/2026 12:26:38] "GET /participants HTTP/1.1" 200 -
+2026-10-25 12:26:38,925 INFO 127.0.0.1 - - [25/Oct/2026 12:26:38] "GET /static/style.css HTTP/1.1" 304 -
+2026-10-25 12:26:48,815 INFO make_chart completed in 0.4411 seconds
+2026-10-25 12:26:48,817 INFO 127.0.0.1 - - [25/Oct/2026 12:26:48] "GET / HTTP/1.1" 200 -
+2026-10-25 12:26:48,831 INFO 127.0.0.1 - - [25/Oct/2026 12:26:48] "GET /static/style.css HTTP/1.1" 304 -
+2026-10-25 12:26:48,837 INFO 127.0.0.1 - - [25/Oct/2026 12:26:48] "GET /static/dashboard_chart.png?v=1792911408 HTTP/1.1" 200 -
+2026-10-25 12:26:49,928 INFO 127.0.0.1 - - [25/Oct/2026 12:26:49] "GET /participants/add HTTP/1.1" 200 -
+2026-10-25 12:26:49,939 INFO 127.0.0.1 - - [25/Oct/2026 12:26:49] "GET /static/style.css HTTP/1.1" 304 -
+2026-10-25 12:27:24,927 INFO 127.0.0.1 - - [25/Oct/2026 12:27:24] "POST /participants/add HTTP/1.1" 400 -
+2026-10-25 12:27:24,945 INFO 127.0.0.1 - - [25/Oct/2026 12:27:24] "GET /static/style.css HTTP/1.1" 304 -
+2026-10-25 12:27:52,743 INFO Participant added: tanish
+2026-10-25 12:27:52,744 INFO 127.0.0.1 - - [25/Oct/2026 12:27:52] "POST /participants/add HTTP/1.1" 302 -
+2026-10-25 12:27:52,752 INFO 127.0.0.1 - - [25/Oct/2026 12:27:52] "GET /participants HTTP/1.1" 200 -
+2026-10-25 12:27:52,762 INFO 127.0.0.1 - - [25/Oct/2026 12:27:52] "GET /static/style.css HTTP/1.1" 304 -
+2026-10-25 12:33:01,603 INFO WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+2026-10-25 12:33:01,603 INFO Press CTRL+C to quit
+2026-10-25 12:33:01,605 INFO  * Restarting with stat
+2026-10-25 12:33:02,865 WARNING  * Debugger is active!
+2026-10-25 12:33:02,868 INFO  * Debugger PIN: 887-119-069
+2026-10-25 12:33:08,624 INFO make_chart completed in 0.4425 seconds
+2026-10-25 12:33:08,655 INFO 127.0.0.1 - - [25/Oct/2026 12:33:08] "GET /?utm_source=chatgpt.com HTTP/1.1" 200 -
+2026-10-25 12:33:08,794 INFO 127.0.0.1 - - [25/Oct/2026 12:33:08] "GET /static/style.css HTTP/1.1" 304 -
+2026-10-25 12:33:08,808 INFO 127.0.0.1 - - [25/Oct/2026 12:33:08] "GET /static/dashboard_chart.png?v=1792911788 HTTP/1.1" 200 -
+2026-10-25 12:33:08,908 INFO 127.0.0.1 - - [25/Oct/2026 12:33:08] "GET /favicon.ico HTTP/1.1" 404 -
+2026-10-25 12:33:22,445 INFO 127.0.0.1 - - [25/Oct/2026 12:33:22] "GET /participants HTTP/1.1" 200 -
+2026-10-25 12:33:22,463 INFO 127.0.0.1 - - [25/Oct/2026 12:33:22] "GET /static/style.css HTTP/1.1" 304 -
+2026-10-25 12:33:26,494 INFO Participant deleted: id=2
+2026-10-25 12:33:26,496 INFO 127.0.0.1 - - [25/Oct/2026 12:33:26] "POST /participants/2/delete HTTP/1.1" 302 -
+2026-10-25 12:33:26,506 INFO 127.0.0.1 - - [25/Oct/2026 12:33:26] "GET /participants HTTP/1.1" 200 -
+2026-10-25 12:33:26,521 INFO 127.0.0.1 - - [25/Oct/2026 12:33:26] "GET /static/style.css HTTP/1.1" 304 -
+2026-10-25 12:33:30,197 INFO Participant deleted: id=1
+2026-10-25 12:33:30,199 INFO 127.0.0.1 - - [25/Oct/2026 12:33:30] "POST /participants/1/delete HTTP/1.1" 302 -
+2026-10-25 12:33:30,213 INFO 127.0.0.1 - - [25/Oct/2026 12:33:30] "GET /participants HTTP/1.1" 200 -
+2026-10-25 12:33:30,228 INFO 127.0.0.1 - - [25/Oct/2026 12:33:30] "GET /static/style.css HTTP/1.1" 304 -
